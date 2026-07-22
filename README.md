@@ -18,7 +18,6 @@
 <table width="82%">
 <tr><td>
 
-
 A recently graduated Computer Science student, currently
 deepening my expertise through advanced software engineering
 coursework — focused on full-stack development, clean
@@ -33,7 +32,6 @@ approach software development.
 That discipline shapes how I write code: methodically
 tracing bugs, structuring efficient databases, and treating
 every project with the same care I'd bring to a manuscript.
-
 
 </td></tr>
 </table>
@@ -55,28 +53,29 @@ every project with the same care I'd bring to a manuscript.
 <!-- ============================================= -->
 <div align="center">
 <tr><td>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1C1C1C,100:2A1F1A&height=130&section=header&text=%F0%9F%8E%93%20Background&fontSize=26&fontColor=D97757&fontAlignY=35&desc=Computer%20Science%20Graduate&descAlignY=62&descSize=16&descColor=E4CEB8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:1C1C1C,100:2A1F1A&height=130&section=header&text=%F0%9F%8E%93%20Background&fontSize=26&fontColor=D97757&fontAlignY=35&desc=Computer%20Science%20Graduate&descAlignY=62&descSize=16&descColor=E4CEB8" />
 </td></tr>
 <tr><td height="14"></td></tr>
 <tr><td>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1C1C1C,100:2A1F1A&height=130&section=header&text=%F0%9F%8C%90%20Languages&fontSize=26&fontColor=D97757&fontAlignY=35&desc=Arabic%20%E2%86%94%20English%20Translation%20Experience&descAlignY=62&descSize=16&descColor=E4CEB8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:1C1C1C,100:2A1F1A&height=130&section=header&text=%F0%9F%8C%90%20Languages&fontSize=26&fontColor=D97757&fontAlignY=35&desc=Arabic%20%E2%86%94%20English%20Translation%20Experience&descAlignY=62&descSize=16&descColor=E4CEB8" />
 </td></tr>
 <tr><td height="14"></td></tr>
 <tr><td>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1C1C1C,100:2A1F1A&height=130&section=header&text=%F0%9F%92%BB%20Focus&fontSize=26&fontColor=D97757&fontAlignY=35&desc=Full-Stack%20Web%20Development&descAlignY=62&descSize=16&descColor=E4CEB8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:1C1C1C,100:2A1F1A&height=130&section=header&text=%F0%9F%92%BB%20Focus&fontSize=26&fontColor=D97757&fontAlignY=35&desc=Full-Stack%20Web%20Development&descAlignY=62&descSize=16&descColor=E4CEB8" />
 </td></tr>
 <tr><td height="14"></td></tr>
 <tr><td>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1C1C1C,100:2A1F1A&height=130&section=header&text=%F0%9F%94%8D%20Approach&fontSize=26&fontColor=D97757&fontAlignY=35&desc=Detail-Driven%2C%20Analytical%2C%20Thorough&descAlignY=62&descSize=16&descColor=E4CEB8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:1C1C1C,100:2A1F1A&height=130&section=header&text=%F0%9F%94%8D%20Approach&fontSize=26&fontColor=D97757&fontAlignY=35&desc=Detail-Driven%2C%20Analytical%2C%20Thorough&descAlignY=62&descSize=16&descColor=E4CEB8" />
 </td></tr>
 <tr><td height="14"></td></tr>
 <tr><td>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1C1C1C,100:2A1F1A&height=130&section=header&text=%F0%9F%93%98%20Learning&fontSize=26&fontColor=D97757&fontAlignY=35&desc=Advanced%20Software%20Engineering&descAlignY=62&descSize=16&descColor=E4CEB8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:1C1C1C,100:2A1F1A&height=130&section=header&text=%F0%9F%93%98%20Learning&fontSize=26&fontColor=D97757&fontAlignY=35&desc=Advanced%20Software%20Engineering&descAlignY=62&descSize=16&descColor=E4CEB8" />
 </td></tr>
 <tr><td height="14"></td></tr>
 <tr><td>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1C1C1C,100:2A1F1A&height=130&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Building&fontSize=26&fontColor=D97757&fontAlignY=35&desc=Full-Stack%20Projects&descAlignY=62&descSize=16&descColor=E4CEB8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:1C1C1C,100:2A1F1A&height=130&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Building&fontSize=26&fontColor=D97757&fontAlignY=35&desc=Full-Stack%20Projects&descAlignY=62&descSize=16&descColor=E4CEB8" />
 </td></tr>
+
 </div>
 
 <br/>
@@ -98,62 +97,89 @@ every project with the same care I'd bring to a manuscript.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1C1C1C&height=3" />
 
 <!-- ============================================= -->
-<!-- Tech Stack — Seamless Minimalist Grid -->
+<!-- Tech Stack -->
 <!-- ============================================= -->
 <div align="center">
 
-## 🧰 Tech Stack
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1C1C1C,100:2A1F1A&height=95&section=header&text=%F0%9F%A7%B0%20Tech%20Stack&fontSize=26&fontColor=D97757&fontAlignY=50" />
 
-<br/>
+<br/><br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&color=E4CEB8&center=true&vcenter=true&width=300&lines=Languages" alt="Languages" />
-  <br/>
-  <img src="https://img.shields.io/badge/JavaScript-1C1C1C?style=for-the-badge&logo=javascript&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/Python-1C1C1C?style=for-the-badge&logo=python&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/C%23-1C1C1C?style=for-the-badge&logo=csharp&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/SQL-1C1C1C?style=for-the-badge&logo=microsoftsqlserver&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/HTML5-1C1C1C?style=for-the-badge&logo=html5&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/CSS3-1C1C1C?style=for-the-badge&logo=css3&logoColor=D97757" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&color=E4CEB8&center=true&vcenter=true&width=300&lines=Frameworks" alt="Frameworks" />
-  <br/>
-  <img src="https://img.shields.io/badge/.NET-1C1C1C?style=for-the-badge&logo=dotnet&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/ADO.NET-1C1C1C?style=for-the-badge&logo=dotnet&logoColor=D97757" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&color=E4CEB8&center=true&vcenter=true&width=300&lines=Databases" alt="Databases" />
-  <br/>
-  <img src="https://img.shields.io/badge/MySQL-1C1C1C?style=for-the-badge&logo=mysql&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/SSMS-1C1C1C?style=for-the-badge&logo=microsoftsqlserver&logoColor=D97757" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&color=E4CEB8&center=true&vcenter=true&width=300&lines=Tooling" alt="Tooling" />
-  <br/>
-  <img src="https://img.shields.io/badge/VS_Code-1C1C1C?style=for-the-badge&logo=visualstudiocode&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/Visual_Studio-1C1C1C?style=for-the-badge&logo=visualstudio&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/Git-1C1C1C?style=for-the-badge&logo=git&logoColor=D97757" />
-</p>
+<table width="96%" cellpadding="20" align="center" style="border-collapse: separate; border-spacing: 0 10px;">
+<tr>
+<td align="center" width="22%" style="background-color: #161616; border-left: 5px solid #D97757; border-top: 1px solid #2a2a2a; border-bottom: 1px solid #2a2a2a; border-top-left-radius: 12px; border-bottom-left-radius: 12px; font-size: 19px;"><span style="color: #E4CEB8; font-weight: bold;">Languages</span></td>
+<td align="left" style="background-color: #161616; border-top: 1px solid #2a2a2a; border-bottom: 1px solid #2a2a2a; border-right: 1px solid #2a2a2a; border-top-right-radius: 12px; border-bottom-right-radius: 12px; padding: 18px;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center" width="22%" style="background-color: #161616; border-left: 5px solid #D97757; border-top: 1px solid #2a2a2a; border-bottom: 1px solid #2a2a2a; border-top-left-radius: 12px; border-bottom-left-radius: 12px; font-size: 19px;"><span style="color: #E4CEB8; font-weight: bold;">Frameworks</span></td>
+<td align="left" style="background-color: #161616; border-top: 1px solid #2a2a2a; border-bottom: 1px solid #2a2a2a; border-right: 1px solid #2a2a2a; border-top-right-radius: 12px; border-bottom-right-radius: 12px; padding: 18px;">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center" width="22%" style="background-color: #161616; border-left: 5px solid #D97757; border-top: 1px solid #2a2a2a; border-bottom: 1px solid #2a2a2a; border-top-left-radius: 12px; border-bottom-left-radius: 12px; font-size: 19px;"><span style="color: #E4CEB8; font-weight: bold;">Databases</span></td>
+<td align="left" style="background-color: #161616; border-top: 1px solid #2a2a2a; border-bottom: 1px solid #2a2a2a; border-right: 1px solid #2a2a2a; border-top-right-radius: 12px; border-bottom-right-radius: 12px; padding: 18px;">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center" width="22%" style="background-color: #161616; border-left: 5px solid #D97757; border-top: 1px solid #2a2a2a; border-bottom: 1px solid #2a2a2a; border-top-left-radius: 12px; border-bottom-left-radius: 12px; font-size: 19px;"><span style="color: #E4CEB8; font-weight: bold;">Tooling</span></td>
+<td align="left" style="background-color: #161616; border-top: 1px solid #2a2a2a; border-bottom: 1px solid #2a2a2a; border-right: 1px solid #2a2a2a; border-top-right-radius: 12px; border-bottom-right-radius: 12px; padding: 18px;">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</td>
+</tr>
+</table>
 
 </div>
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1C1C1C&height=3" />
 
 <!-- ============================================= -->
-<!-- Contribution Snake — animated -->
+<!-- Analytics Dashboard -->
 <!-- ============================================= -->
 <div align="center">
 
-## 🐍 Contribution Graph
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1C1C1C,100:2A1F1A&height=95&section=header&text=%F0%9F%93%8A%20Analytics%20Dashboard&fontSize=26&fontColor=D97757&fontAlignY=50" />
+
+<br/><br/>
+
+<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=FArybak&background=0d1117&ring=D97757&fire=D97757&currStreakNum=E4CEB8&currStreakLabel=D97757&sideNums=E4CEB8&sideLabels=E4CEB8&dates=E4CEB8&hide_border=true&stroke=0d1117" alt="GitHub Streak" />
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1C1C1C&height=3" />
+
+<!-- ============================================= -->
+<!-- Contribution Graph -->
+<!-- ============================================= -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1C1C1C,100:2A1F1A&height=95&section=header&text=%F0%9F%90%8D%20Contribution%20Graph&fontSize=26&fontColor=D97757&fontAlignY=50" />
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FArybak/FArybak/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FArybak/FArybak/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/FArybak/FArybak/output/github-contribution-grid-snake-dark.svg" />
+  <img width="100%" alt="snake" src="https://raw.githubusercontent.com/FArybak/FArybak/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
