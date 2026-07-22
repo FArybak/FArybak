@@ -54,7 +54,6 @@ every project with the same care I'd bring to a manuscript.
 <!-- Info Cards — large, full-width -->
 <!-- ============================================= -->
 <div align="center">
-<table width="88%">
 <tr><td>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1C1C1C,100:2A1F1A&height=130&section=header&text=%F0%9F%8E%93%20Background&fontSize=26&fontColor=D97757&fontAlignY=35&desc=Computer%20Science%20Graduate&descAlignY=62&descSize=16&descColor=E4CEB8" />
 </td></tr>
@@ -78,7 +77,6 @@ every project with the same care I'd bring to a manuscript.
 <tr><td>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1C1C1C,100:2A1F1A&height=130&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Building&fontSize=26&fontColor=D97757&fontAlignY=35&desc=Full-Stack%20Projects&descAlignY=62&descSize=16&descColor=E4CEB8" />
 </td></tr>
-</table>
 </div>
 
 <br/>
@@ -140,19 +138,6 @@ every project with the same care I'd bring to a manuscript.
   <img src="https://img.shields.io/badge/Visual_Studio-1C1C1C?style=for-the-badge&logo=visualstudio&logoColor=D97757" />
   <img src="https://img.shields.io/badge/Git-1C1C1C?style=for-the-badge&logo=git&logoColor=D97757" />
 </p>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1C1C1C&height=3" />
-
-<!-- ============================================= -->
-<!-- Trophy Case -->
-<!-- ============================================= -->
-<div align="center">
-
-## 🏆 Trophy Case
-
-<img src="https://github-profile-trophy.vercel.app/?username=FArybak&theme=gruvbox&no-bg=true&no-frame=true&margin-w=12&margin-h=12&column=4" alt="trophies" />
 
 </div>
 
