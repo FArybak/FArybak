@@ -105,7 +105,7 @@ every project with the same care I'd bring to a manuscript.
 
 <br/><br/>
 
-<table width="96%" cellpadding="20" align="center" style="border-collapse: separate; border-spacing: 0 10px;">
+<table width="100%" cellpadding="20" align="center" style="border-collapse: separate; border-spacing: 0 10px;">
 <tr>
 <td align="center" width="22%" style="background-color: #161616; border-left: 5px solid #D97757; border-top: 1px solid #2a2a2a; border-bottom: 1px solid #2a2a2a; border-top-left-radius: 12px; border-bottom-left-radius: 12px; font-size: 19px;"><span style="color: #E4CEB8; font-weight: bold;">Languages</span></td>
 <td align="left" style="background-color: #161616; border-top: 1px solid #2a2a2a; border-bottom: 1px solid #2a2a2a; border-right: 1px solid #2a2a2a; border-top-right-radius: 12px; border-bottom-right-radius: 12px; padding: 18px;">
@@ -159,7 +159,9 @@ every project with the same care I'd bring to a manuscript.
 
 <br/><br/>
 
-<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=FArybak&background=0d1117&ring=D97757&fire=D97757&currStreakNum=E4CEB8&currStreakLabel=D97757&sideNums=E4CEB8&sideLabels=E4CEB8&dates=E4CEB8&hide_border=true&stroke=0d1117" alt="GitHub Streak" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=FArybak&background=0d1117&ring=D97757&fire=D97757&currStreakNum=E4CEB8&currStreakLabel=D97757&sideNums=E4CEB8&sideLabels=E4CEB8&dates=E4CEB8&hide_border=true&stroke=0d1117" alt="GitHub Streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FArybak&bg_color=1C1C1C&color=E4CEB8&line=D97757&point=D97757&area=true&area_color=D97757&title_color=D97757&hide_border=true" alt="activity graph" />
 
 </div>
 
